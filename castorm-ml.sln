@@ -5,6 +5,8 @@ VisualStudioVersion = 25.0.1704.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "castorm-ml", "castorm-ml\castorm-ml.csproj", "{1354BF30-C8EA-40D7-A84B-EDE9DCC6D20B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MNIST", "MNIST\MNIST.csproj", "{FB6D15F5-6B4D-4A75-A89A-1E689318AD9E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1354BF30-C8EA-40D7-A84B-EDE9DCC6D20B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1354BF30-C8EA-40D7-A84B-EDE9DCC6D20B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1354BF30-C8EA-40D7-A84B-EDE9DCC6D20B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB6D15F5-6B4D-4A75-A89A-1E689318AD9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB6D15F5-6B4D-4A75-A89A-1E689318AD9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB6D15F5-6B4D-4A75-A89A-1E689318AD9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB6D15F5-6B4D-4A75-A89A-1E689318AD9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

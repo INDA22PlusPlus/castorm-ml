@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "BBK+JaKW0xZ8OV/fEBZdf8grx95NBkA4h29ZXDaMTjOPHZ72UTmzHLnh5wUyIUaLWb00nxlVrH6Vq7oVcpjhMg==",
+  "success": true,
+  "projectFilePath": "/Users/castormann/Desktop/School/KTH-Work/Year 1/LP 1/DD1337 Programmering/Homework 6/castorm-ml/MNIST/MNIST.csproj",
+  "expectedPackageFiles": [
+    "/Users/castormann/.nuget/packages/accord/3.8.0/accord.3.8.0.nupkg.sha512",
+    "/Users/castormann/.nuget/packages/accord.datasets/3.8.0/accord.datasets.3.8.0.nupkg.sha512",
+    "/Users/castormann/.nuget/packages/accord.io/3.8.0/accord.io.3.8.0.nupkg.sha512",
+    "/Users/castormann/.nuget/packages/accord.math/3.8.0/accord.math.3.8.0.nupkg.sha512",
+    "/Users/castormann/.nuget/packages/mathnet.numerics/5.0.0/mathnet.numerics.5.0.0.nupkg.sha512",
+    "/Users/castormann/.nuget/packages/sharpziplib/0.86.0/sharpziplib.0.86.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'SharpZipLib 0.86.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "SharpZipLib",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}

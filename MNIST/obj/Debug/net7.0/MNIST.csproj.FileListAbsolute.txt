@@ -1,0 +1,13 @@
+/Users/castormann/Desktop/School/KTH-Work/Year 1/LP 1/DD1337 Programmering/Homework 6/castorm-ml/MNIST/bin/Debug/net7.0/Accord.dll.config
+/Users/castormann/Desktop/School/KTH-Work/Year 1/LP 1/DD1337 Programmering/Homework 6/castorm-ml/MNIST/bin/Debug/net7.0/MNIST.deps.json
+/Users/castormann/Desktop/School/KTH-Work/Year 1/LP 1/DD1337 Programmering/Homework 6/castorm-ml/MNIST/bin/Debug/net7.0/MNIST.dll
+/Users/castormann/Desktop/School/KTH-Work/Year 1/LP 1/DD1337 Programmering/Homework 6/castorm-ml/MNIST/bin/Debug/net7.0/MNIST.pdb
+/Users/castormann/Desktop/School/KTH-Work/Year 1/LP 1/DD1337 Programmering/Homework 6/castorm-ml/MNIST/obj/Debug/net7.0/MNIST.csproj.AssemblyReference.cache
+/Users/castormann/Desktop/School/KTH-Work/Year 1/LP 1/DD1337 Programmering/Homework 6/castorm-ml/MNIST/obj/Debug/net7.0/MNIST.GeneratedMSBuildEditorConfig.editorconfig
+/Users/castormann/Desktop/School/KTH-Work/Year 1/LP 1/DD1337 Programmering/Homework 6/castorm-ml/MNIST/obj/Debug/net7.0/MNIST.AssemblyInfoInputs.cache
+/Users/castormann/Desktop/School/KTH-Work/Year 1/LP 1/DD1337 Programmering/Homework 6/castorm-ml/MNIST/obj/Debug/net7.0/MNIST.AssemblyInfo.cs
+/Users/castormann/Desktop/School/KTH-Work/Year 1/LP 1/DD1337 Programmering/Homework 6/castorm-ml/MNIST/obj/Debug/net7.0/MNIST.csproj.CoreCompileInputs.cache
+/Users/castormann/Desktop/School/KTH-Work/Year 1/LP 1/DD1337 Programmering/Homework 6/castorm-ml/MNIST/obj/Debug/net7.0/MNIST.dll
+/Users/castormann/Desktop/School/KTH-Work/Year 1/LP 1/DD1337 Programmering/Homework 6/castorm-ml/MNIST/obj/Debug/net7.0/refint/MNIST.dll
+/Users/castormann/Desktop/School/KTH-Work/Year 1/LP 1/DD1337 Programmering/Homework 6/castorm-ml/MNIST/obj/Debug/net7.0/MNIST.pdb
+/Users/castormann/Desktop/School/KTH-Work/Year 1/LP 1/DD1337 Programmering/Homework 6/castorm-ml/MNIST/obj/Debug/net7.0/ref/MNIST.dll
